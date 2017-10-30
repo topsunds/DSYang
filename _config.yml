@@ -1,0 +1,8 @@
+title: DONGSHENG YANG
+description: "Email: DSYang[at]bjtu.edu.cn"
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
